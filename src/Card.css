@@ -1,0 +1,14 @@
+.cardContainer {
+  margin: 1em;
+}
+
+.cardDetails {
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: 2em;
+}
+
+.cardName {
+  font-size: 1.25em;
+  font-weight: bold;
+}
